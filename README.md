@@ -1,3 +1,6 @@
+# Project Link
+[Admin Panel](https://vuyit-api.herokuapp.com/)
+
 # Project
 
 - [FrontEnd](https://github.com/Piyush-Ranjan-Mishra/femgame-fe.git)
